@@ -41,6 +41,10 @@ I just have the ideia, I don't know what to do yet hahaha
 
 The banner img was a composition of a canva banner and this img here:
 <a href="https://undraw.co/illustrations">undraw illustration</a>.
+<br>
+All images on my website are from freepik:
+<br>
+<a href="https://www.freepik.com/premium-photo/reading-book-education-learning-reading-concept_2801822.htm">Main header</a>
 
 <i>Stay awesome Gothan!</i>
   
