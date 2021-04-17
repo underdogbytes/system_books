@@ -1,4 +1,17 @@
+.header{
+    /* building */
+    height: 300px;
+    /* style */
+    background-image: url('../img/reading-book-education-learning-reading-concept.jpg');
+    background-position: center;
+    background-size: cover;
+    /* typography */
+    text-align: end;
+}
 .title--main{
+    /* position */
+    padding: 5%;
+    /* typography */
     font-family: 'Zilla Slab Highlight', cursive;
     font-size: 48px;
     font-weight: bold;
