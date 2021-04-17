@@ -1,3 +1,32 @@
-.book-list--title{ font-size: 24px; font-weight: 600; }
-.book-list--author{ font-size: 12px; font-style: italic; }
-.book-list--description{ font-size: 16px;}
+/* duotone cards */
+.duotone-card__img{
+    /* building */
+    width: 200px;
+    height: 400px;
+    /* style */
+    background-size: cover;
+    background-position: center;;
+}
+
+.duotone-card__content{
+    /* position */
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    /* building */
+    width: 100%;
+    padding: 10px 0px 10px 10px;
+    /* style */
+    background-color: darkred;
+    color: #ffffff;
+}
+
+.duotone-card__filter{
+    /* building */
+    width: 200px;
+    height: 400px;
+    /* style */
+    transition: .5s ease;
+    filter: brightness(0.8) saturate(1) opacity(0.9) hue-rotate(60deg);
+}
+.duotone-card__filter:hover{ filter: none; }
