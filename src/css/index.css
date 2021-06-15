@@ -80,7 +80,7 @@ header{
 .duotone-card__img{
     /* building */
     width: 200px;
-    height: 400px;
+    height: 300px;
     /* style */
     background-size: cover;
     background-position: center;
@@ -99,7 +99,7 @@ header{
 }
 .duotone-card__filter{
     /* building */
-    width: 150px;
+    width: 200px;
     height: 300px;
     /* style */
     transition: .5s ease;
