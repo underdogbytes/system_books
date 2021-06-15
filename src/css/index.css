@@ -58,7 +58,17 @@ header{
 /* Cards
 --------------------------------------------------------
 */
+.card{
+    background-color: #212121;
+    color: #ffffff;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+.card:hover{
+    opacity: 1
+}
 .card__title{
+    margin: 0;
     font-size: 28px;
     font-weight: bold;
     text-align: center;
