@@ -10,7 +10,25 @@ html,body{
 /* Header
 --------------------------------------------------------
 */
-.header{
+.nav{
+    height: 50px;
+    background-color: #212121;
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.nav .container{
+    display: grid;
+    align-items: center;
+}
+.nav p{
+    margin: 0;
+}
+
+/* Header
+--------------------------------------------------------
+*/
+header{
     /* building */
     height: 300px;
     /* style */
@@ -29,6 +47,22 @@ html,body{
     font-weight: bold;
 }
 
+/* About the project
+---------------------------------------------------------
+*/
+.about-the-project__title{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+/* Cards
+--------------------------------------------------------
+*/
+.card__title{
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
 /* Duocards
 --------------------------------------------------------
 */
@@ -50,7 +84,7 @@ html,body{
     width: 100%;
     padding: 10px 0px 10px 10px;
     /* style */
-    background-color: darkred;
+    background-color: #212121;
     color: #ffffff;
 }
 .duotone-card__filter{
@@ -59,7 +93,7 @@ html,body{
     height: 300px;
     /* style */
     transition: .5s ease;
-    filter: brightness(0.8) saturate(1) opacity(0.9) hue-rotate(60deg);
+    filter: brightness(0.8) saturate(0) opacity(0.9) hue-rotate(60deg);
 }
 .duotone-card__filter:hover{ filter: none; }
 
@@ -67,7 +101,7 @@ html,body{
 --------------------------------------------------------
 */
 footer{
-    height: 150px;
+    font-weight: bold;
     background-color: #212121;
     color: #fff;
 }
