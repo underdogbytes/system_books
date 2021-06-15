@@ -10,13 +10,13 @@ Website
 Website of the books that I'm reading, read and will read throughout this year 2021 :)
 <br/><br/>
 <b>Figma:</b><br/>
-<a href="https://www.figma.com/file/nkkhiIBSyeoYDbzSCq3Goq/Github-Booklist-2021?node-id=0%3A1" target="_blank">Click here to see Figma design project.</a>
+<a href="https://www.figma.com/file/nkkhiIBSyeoYDbzSCq3Goq/Github-Booklist-2021?node-id=0%3A1" target="_blank">
+    Click here to see Figma design project.
+</a>
 <br/><br/>
 <b>Behance:</b><br/>
 Coming soon.
 <br/><br/>
-[link](https://www.figma.com/file/nkkhiIBSyeoYDbzSCq3Goq/Github-Booklist-2021?node-id=0%3A1){:target="_blank"}
-
 
 # Quick links &#128150;
   
