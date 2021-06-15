@@ -15,7 +15,8 @@ Website of the books that I'm reading, read and will read throughout this year 2
 <b>Behance:</b><br/>
 Coming soon.
 <br/><br/>
-[GitHub Pages](https://pages.github.com/)
+[link](https://www.figma.com/file/nkkhiIBSyeoYDbzSCq3Goq/Github-Booklist-2021?node-id=0%3A1){:target="_blank"}
+
 
 # Quick links &#128150;
   
