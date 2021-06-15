@@ -16,6 +16,7 @@ Website of the books that I'm reading, read and will read throughout this year 2
 Coming soon.
 <br/><br/>
 [GitHub Pages](https://pages.github.com/)
+
 # Quick links &#128150;
   
 [PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [CREDITS](#Credits) &diams; [BACK TO TOP](#Website-2021-book-list)
