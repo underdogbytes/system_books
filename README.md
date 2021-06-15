@@ -7,7 +7,7 @@ HTML, CSS, JS
 Website
 <br/><br/>
 <b>Description:</b><br/>
-A website of my 2021 book list :)
+Website of the books that I'm reading, read and will read throughout this year 2021 :)
 <br/><br/>
 # Quick links &#128150;
   
@@ -16,12 +16,7 @@ A website of my 2021 book list :)
 
 # Project setup
 ```
-Type the commands here
-```
-
-### Compiles and hot-reloads for development
-```
-Type the commands here
+Open index.html in your favorite browser :)
 ```
 
 <b>Thank you for your support!</b>
@@ -31,9 +26,11 @@ Type the commands here
 
 
 # How is the development of the project right now?
-<b>Last update:</b> 09/03/2021
+<b>Last update:</b> 15/06/2021
 
-I just have the ideia, I don't know what to do yet hahaha
+So, I updated with some adjusts, but I really don't like the design, so probably I'll re-code it soon.
+<br>
+I also thought I needed to create a Figma to show more about this project. I will make it available soon.
 
 <br/>
 
