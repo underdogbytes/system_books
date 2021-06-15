@@ -37,7 +37,7 @@ Open index.html in your favorite browser :)
 # How is the development of the project right now?
 <b>Last update:</b> 15/06/2021
 
-So, now I need to code a filter to filter the books on the list :)
+I created a filter to the books and that's all for today :)
 
 <br/>
 
