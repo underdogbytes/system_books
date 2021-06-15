@@ -37,9 +37,7 @@ Open index.html in your favorite browser :)
 # How is the development of the project right now?
 <b>Last update:</b> 15/06/2021
 
-So, I updated with some adjusts, but I really don't like the design, so probably I'll re-code it soon.
-<br>
-I also thought I needed to create a Figma to show more about this project. I will make it available soon.
+So, now I need to code a filter to filter the books on the list :)
 
 <br/>
 
