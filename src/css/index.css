@@ -5,6 +5,10 @@ html,body{
     margin: 0;
     padding: 0;
     color: #212121;
+
+    /* the down below is for AOS problems */
+    width:100%;
+    overflow-x:hidden;
 }
 
 /* Header
