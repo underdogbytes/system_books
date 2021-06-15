@@ -31,7 +31,7 @@ Open index.html in your favorite browser :)
 <b>Thank you for your support!</b>
 
 # Preview
-<img src="./img/screenshot.png" alt="What the fuck is going on here?" />
+<img src="./src/img/screenshot.png" alt="What the fuck is going on here?" />
 
 
 # How is the development of the project right now?
