@@ -1,5 +1,5 @@
 # Website: 2021 book list
-<img src="banner.png" />
+<img src="./src/img/booklist.png" />
 <b>Made with:</b><br/>
 HTML, CSS, JS
 <br/><br/>
@@ -43,12 +43,11 @@ I created a filter to the books and that's all for today :)
 
 # Credits
 
-The banner img was a composition of a canva banner and this img here:
-<a href="https://undraw.co/illustrations">undraw illustration</a>.
-<br>
 All images on my website are from freepik:
 <br>
-<a href="https://www.freepik.com/premium-photo/reading-book-education-learning-reading-concept_2801822.htm">Main header</a>
+<a href='https://www.freepik.com/psd/coffee'>Coffee psd created by rawpixel.com - www.freepik.com</a>
+<br>
+<a href="https://www.freepik.com/premium-photo/reading-book-education-learning-reading-concept_2801822.htm">Reading book - www.freepik.com</a>
 
 <i>Stay awesome Gothan!</i>
   
