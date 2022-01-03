@@ -1,22 +1,25 @@
-# Website: 2021 book list
+# Booklist
+## Website + API
 <img src="./booklist.png" />
-<b>Made with:</b><br/>
-HTML, CSS, JS
-<br/><br/>
-<b>What is this?</b><br/>
-Website
-<br/><br/>
-<b>Description:</b><br/>
-Website of the books that I'm reading, read and will read throughout this year 2021 :)
-<br/><br/>
-<b>Figma:</b><br/>
-<a href="https://www.figma.com/file/nkkhiIBSyeoYDbzSCq3Goq/Github-Booklist-2021?node-id=0%3A1" target="_blank">
-    Click here to see Figma design project.
-</a>
-<br/><br/>
-<b>Behance:</b><br/>
-Coming soon.
-<br/><br/>
+
+
+__Made with:__
+Website: HTML, CSS & JS
+API: _coming soon!_
+
+__What is this?__
+Website _(and soon an API of a booklist!)_
+
+__Description:__
+Website of the books that I'm reading, read and will read throughout this life :)
+
+__Figma:__
+<a href="https://www.figma.com/file/M5TEV0H8k5hXhBF2rj7fBF/Github---Booklist?node-id=0%3A1">Taaaaake on me</a>, take me on!
+(seriously, click take on me)
+
+__Behance:__
+_Coming soon!_
+
 
 # Quick links &#128150;
   
@@ -28,27 +31,32 @@ Coming soon.
 Open index.html in your favorite browser :)
 ```
 
-<b>Thank you for your support!</b>
 
 # Preview
 <img src="./src/img/screenshot.png" alt="What the fuck is going on here?" />
 
 
 # How is the development of the project right now?
-<b>Last update:</b> 15/06/2021
+__Last update:__  03/01/2022
 
-I created a filter to the books and that's all for today :)
+I stopped to code this and now I finished a new figma for this project. So...
 
-<br/>
+Soon may the Wellerman come
+To bring us sugar and tea and rum
+One day, when the tonguing is done
+We'll take our leave and go!
+
+Just kidding guys, I'll code this soon _(perhaps)_.
+
 
 # Credits
 
-All images on my website are from freepik:
-<br>
-<a href='https://www.freepik.com/psd/coffee'>Coffee psd created by rawpixel.com - www.freepik.com</a>
-<br>
-<a href="https://www.freepik.com/premium-photo/reading-book-education-learning-reading-concept_2801822.htm">Reading book - www.freepik.com</a>
+I made the banner with Canva, and the rest of the images are from <a href="https://www.freepik.com/">Freepik</a>.
+And here are the credits:
 
-<i>Stay awesome Gothan!</i>
+<a href="https://www.freepik.com/premium-photo/reading-book-education-learning-reading-concept_2801822.htm">Reading book</a>
+
+__Thank you for your support!__
+_... And stay awesome Gothan!_
   
 [PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [CREDITS](#Credits) &diams; [BACK TO TOP](#Website-2021-book-list)
