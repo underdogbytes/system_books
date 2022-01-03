@@ -3,6 +3,8 @@
   <source src="booklist.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+<img src="./booklist.mp4" />
 <b>Made with:</b><br/>
 HTML, CSS, JS
 <br/><br/>
