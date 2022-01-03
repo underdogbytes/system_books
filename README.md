@@ -1,5 +1,8 @@
 # Website: 2021 book list
-<img src="./src/img/booklist.png" />
+<video controls>
+  <source src="booklist.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 <b>Made with:</b><br/>
 HTML, CSS, JS
 <br/><br/>
