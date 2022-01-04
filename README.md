@@ -37,17 +37,21 @@ Open index.html in your favorite browser :)
 
 
 # How is the development of the project right now?
-__Last update:__  03/01/2022
+__Last update:__  04/01/2022
 
-I stopped to code this and now I finished a new figma for this project. So...
+Yaaaaasss! The basic API is done and the website now is in Laravel! But I'll keep singing this 'cause it's cool, so...
 
 Soon may the Wellerman come
 To bring us sugar and tea and rum
 One day, when the tonguing is done
 We'll take our leave and go!
 
-Just kidding guys, I'll code this soon _(perhaps)_.
 
+Oh, I was almost forgoting:
+
+If you want to see the coding steps, got to api/README.md :)
+
+You'll get everything you want there! Cheers!
 
 # Credits
 
@@ -56,7 +60,9 @@ And here are the credits:
 
 <a href="https://www.freepik.com/premium-photo/reading-book-education-learning-reading-concept_2801822.htm">Reading book</a>
 
+
 __Thank you for your support!__
+
 _... And stay awesome Gothan!_
   
 [PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [CREDITS](#Credits) &diams; [BACK TO TOP](#Website-2021-book-list)
