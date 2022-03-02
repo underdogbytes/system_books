@@ -27,4 +27,11 @@ class BooksController extends Controller
 
         return view('admin.show', ['book' => $book]);
     }
+
+    public function edit($id)
+    {
+        $book = $this->books->edit($id);
+
+        return view('admin.edit', ['book' => $book]);
+    }
 }
