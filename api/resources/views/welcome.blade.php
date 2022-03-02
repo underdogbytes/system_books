@@ -22,22 +22,6 @@
         <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     </head>
     <body>
-        <!-- AUTH -->
-        <div>
-            @if (Route::has('login'))
-                <div class="top-right links">
-                    @auth
-                        <a href="{{ url('/home') }}">Home</a>
-                    @else
-                        <a href="{{ route('login') }}">Login</a>
-
-                        @if (Route::has('register'))
-                            <a href="{{ route('register') }}">Register</a>
-                        @endif
-                    @endauth
-                </div>
-            @endif
-        </div>
 
         <!-- OLD STUFF -->
         <div>
@@ -45,8 +29,25 @@
             <div class="nav">
                 <div class="container">
                     <div class="row">
-                        <div class="col-12">
+                        <div class="col-6">
                             <p>Welcome!</p>
+                        </div>
+
+                        <!-- AUTH -->
+                        <div class="col-6 d-flex justify-content-end">
+                            @if (Route::has('login'))
+                                <div class="top-right links">
+                                    @auth
+                                        <a href="{{ url('/home') }}">Home</a>
+                                    @else
+                                        <a href="{{ route('login') }}">Login</a>
+
+                                        @if (Route::has('register'))
+                                            <a href="{{ route('register') }}">Register</a>
+                                        @endif
+                                    @endauth
+                                </div>
+                            @endif
                         </div>
                     </div>
                 </div>
