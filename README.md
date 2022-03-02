@@ -4,11 +4,10 @@
 
 
 __Made with:__
-Website: HTML, CSS & JS
-API: _coming soon!_
+Website: Laravel 7
 
 __What is this?__
-Website _(and soon an API of a booklist!)_
+Website of books with own api coded
 
 __Description:__
 Website of the books that I'm reading, read and will read throughout this life :)
@@ -27,8 +26,13 @@ _Coming soon!_
 
 
 # Project setup
+
 ```
-Open index.html in your favorite browser :)
+cd api
+```
+
+```
+php artisan serve
 ```
 
 
@@ -37,14 +41,15 @@ Open index.html in your favorite browser :)
 
 
 # How is the development of the project right now?
-__Last update:__  04/01/2022
+__Last update:__  01/03/2022
 
-Yaaaaasss! The basic API is done and the website now is in Laravel! But I'll keep singing this 'cause it's cool, so...
 
-Soon may the Wellerman come
-To bring us sugar and tea and rum
-One day, when the tonguing is done
-We'll take our leave and go!
+Updates:
+
+- [x] Website on Laravel
+- [x] Yaaaaasss! The basic API is done :)
+- [ ] Implement front-end of create & edit pages
+- [ ] Back-end of create & edit pages
 
 
 Oh, I was almost forgoting:
@@ -52,6 +57,7 @@ Oh, I was almost forgoting:
 If you want to see the coding steps, got to api/README.md :)
 
 You'll get everything you want there! Cheers!
+
 
 # Credits
 
