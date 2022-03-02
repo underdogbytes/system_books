@@ -11,9 +11,9 @@
                 {{ $book }}
             </div>
 
-            <div class="mt-5">
+            <!-- <div class="mt-5">
                 <a href="/books/{{ $book->id }}/edit">Edit</a>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>
