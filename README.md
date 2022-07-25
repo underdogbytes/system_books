@@ -1,74 +1,125 @@
 # Booklist
-## Website + API
-<img src="./booklist.png" />
 
+[![PHP Version](https://img.shields.io/badge/PHP-8.0.2-blue.svg)](https://www.php.net)
+[![Laravel Version](https://img.shields.io/badge/Laravel-9.19-red.svg)](https://laravel.com/)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/wolfhaltz/my-booklist-website-and-api)
 
-__Made with:__
-Website: Laravel 7
+<img src="booklist.png" alt="banner" />
 
-__What is this?__
-Website of books with own api coded
+## Summary
 
-__Description:__
-Website of the books that I'm reading, read and will read throughout this life :)
+[PREVIEW](#Preview) &diams; [ABOUT](#About) &diams; [GET STARTED](#Get-started) &diams; [PROJECT DEVELOPMENT STATUS](#Project-development-status) &diams; [THANKS](#Thanks) &diams;
+
+## Preview
 
 __Figma:__
-<a href="https://www.figma.com/file/M5TEV0H8k5hXhBF2rj7fBF/Github---Booklist?node-id=0%3A1">Taaaaake on me</a>, take me on!
-(seriously, click take on me)
+Coming soon
 
 __Behance:__
-_Coming soon!_
+Coming soon
 
+<put some cool gif here>
 
-# Quick links &#128150;
+## About
+
+This is an application for ??????, created using `PHP 8` & `Laravel 9` that shows ?????????????.
+The main rules are:
+
+- [ ] Example
+- [ ] Example
+- [ ] Example
+- [ ] Example
+
+For more information about the it, check:
+
+<a href="https://some-link-here" target="_blank">example</a>
+
+# Get started
+
+### Before start
   
-[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [CREDITS](#Credits) &diams; [BACK TO TOP](#Website-2021-book-list)
+You must have the down below to run the project locally:
 
+- <a href="#">example</a>
+- <a href="#">example</a>
 
-# Project setup
+### Locally project setup
+
+To clone the project, navigate to its folder and to install required packages, run the following commands on the command prompt:
+
+```sh
+$ git clone https://github.com/wolfhaltz/my-booklist-website-and-api.git
+$ cd example/
+```
+  
+### Project Setup
+
+```sh
+TYpe the commands heres (ex: npm install)
+```
+
+### Compiles and hot-reloads for development
+```
+Type the commands here (ex: npm run dev)
+```
+  
+### Compile and Minify for Production
+
+```sh
+Type the commands here (ex: npm run build)
+```
+  
+### Run Headed Component Tests with [Testing Tools](https://tool-link)
+
+```sh
+Type the commands here (ex: npm run test:unit # or `npm run test:unit:ci` for headless testing)
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```
+  
+### Usage via Docker
+
+To build the container run:
+
+```sh
+docker-compose build 
+```
+
+...then run this:
 
 ```
-cd api
+docker-compose up
 ```
 
-```
-php artisan serve
-```
+Open the website at http://localhost:3000 and its done! :D
 
+## Recommended IDE Setup
 
-# Preview
-<img src="./src/img/screenshot.png" alt="What the fuck is going on here?" />
+[VSCode](https://code.visualstudio.com/) + whatever
+  
+# Project development status
+__Last update:__ 25/07/2022
 
+Re-started this project to improve some features
 
-# How is the development of the project right now?
-__Last update:__  01/03/2022
+To-do:
 
+- [ ] re-write API
+- [ ] Improve the visual of front-end
+- [ ] Add components
+- [ ] CRUD
+- [ ] Tests: PHPUnit / similar
 
-Updates:
+# Thanks
 
-- [x] Website on Laravel
-- [x] Yaaaaasss! The basic API is done :)
-- [ ] Implement front-end of create & edit pages
-- [ ] Back-end of create & edit pages
-
-
-Oh, I was almost forgoting:
-
-If you want to see the coding steps, got to api/README.md :)
-
-You'll get everything you want there! Cheers!
-
-
-# Credits
-
-I made the banner with Canva, and the rest of the images are from <a href="https://www.freepik.com/">Freepik</a>.
-And here are the credits:
-
-<a href="https://www.freepik.com/premium-photo/reading-book-education-learning-reading-concept_2801822.htm">Reading book</a>
-
+Lorem ipsum dolor sit amet
 
 __Thank you for your support!__
 
 _... And stay awesome Gothan!_
   
-[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [CREDITS](#Credits) &diams; [BACK TO TOP](#Website-2021-book-list)
+[PREVIEW](#Preview) &diams; [ABOUT](#About) &diams; [GET STARTED](#Get-started) &diams; [PROJECT DEVELOPMENT STATUS](#Project-development-status) &diams; [THANKS](#Thanks) &diams; [BACK TO TOP](#Project-name-here)
