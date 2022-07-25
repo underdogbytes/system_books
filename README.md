@@ -1,8 +1,8 @@
 # Booklist
 
-[![PHP Version](https://img.shields.io/badge/PHP-8.0.2-blue.svg)](https://www.php.net)
+[![PHP Version](https://img.shields.io/badge/PHP-8.0.2-purple.svg)](https://www.php.net)
 [![Laravel Version](https://img.shields.io/badge/Laravel-9.19-red.svg)](https://laravel.com/)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/wolfhaltz/my-booklist-website-and-api)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/wolfhaltz/booklist)
 
 <img src="booklist.png" alt="banner" />
 
@@ -22,13 +22,14 @@ Coming soon
 
 ## About
 
-This is an application for ??????, created using `PHP 8` & `Laravel 9` that shows ?????????????.
+This is an application for book lovers, created using `PHP 8` & `Laravel 9` that you can CRUD a book list, inspired by Skoob website.
 The main rules are:
 
-- [ ] Example
-- [ ] Example
-- [ ] Example
-- [ ] Example
+- [ ] Create a book list
+- [ ] Add, edit or delete a book
+- [ ] Add or remove a book from a list
+- [ ] Using API
+- [ ] Tests with Cypress
 
 For more information about the it, check:
 
@@ -40,7 +41,7 @@ For more information about the it, check:
   
 You must have the down below to run the project locally:
 
-- <a href="#">example</a>
+- <a href="https://www.apachefriends.org/index.html">xampp/similar</a>
 - <a href="#">example</a>
 
 ### Locally project setup
@@ -48,9 +49,11 @@ You must have the down below to run the project locally:
 To clone the project, navigate to its folder and to install required packages, run the following commands on the command prompt:
 
 ```sh
-$ git clone https://github.com/wolfhaltz/my-booklist-website-and-api.git
+$ git clone https://github.com/wolfhaltz/booklist.git
 $ cd example/
 ```
+
+If you're using xampp, clone this project at xampp/htdocs folder ;)
   
 ### Project Setup
 
