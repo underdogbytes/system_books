@@ -1,0 +1,134 @@
+/* General
+--------------------------------------------------------
+*/
+html, body{
+    margin: 0;
+    padding: 0;
+    color: #212121;
+
+    /* the down below is for AOS problems */
+    width:100%;
+    overflow-x:hidden;
+}
+
+body{
+    color-scheme: light dark;
+    background-color: Canvas;
+    color: CanvasText;
+}
+
+/* Header
+--------------------------------------------------------
+*/
+.nav{
+    height: 50px;
+    background-color: #212121;
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.nav .container{
+    display: grid;
+    align-items: center;
+}
+.nav p{
+    margin: 0;
+}
+
+/* Header
+--------------------------------------------------------
+*/
+header{
+    /* building */
+    height: 300px;
+    /* style */
+    background-image: url('../img/reading-book-education-learning-reading-concept.jpg');
+    background-position: center;
+    background-size: cover;
+    /* typography */
+    text-align: end;
+}
+
+.title--main{
+    /* position */
+    padding: 5%;
+    /* typography */
+    font-family: 'Zilla Slab Highlight', cursive;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+/* About the project
+---------------------------------------------------------
+*/
+.about-the-project__title{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+/* Cards
+--------------------------------------------------------
+*/
+.card{
+    background-color: #212121;
+    color: #ffffff;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+.card:hover{
+    opacity: 1
+}
+.card__title{
+    margin: 0;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
+/* Duocards
+--------------------------------------------------------
+*/
+/* duotone cards */
+.duotone-card__img{
+    /* building */
+    width: 200px;
+    height: 300px;
+    /* style */
+    background-size: cover;
+    background-position: center;
+}
+.duotone-card__content{
+    /* position */
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    /* building */
+    width: 100%;
+    padding: 10px 0px 10px 10px;
+    /* style */
+    background-color: #212121;
+    color: #ffffff;
+}
+.duotone-card__filter{
+    /* building */
+    width: 200px;
+    height: 300px;
+    /* style */
+    transition: .5s ease;
+    filter: brightness(0.8) saturate(0) opacity(0.9) hue-rotate(60deg);
+}
+.duotone-card__filter:hover{ filter: none; }
+
+/* Footer
+--------------------------------------------------------
+*/
+footer{
+    font-weight: bold;
+    background-color: #212121;
+    color: #fff;
+}
+
+/* intern dashboard */
+.container{
+    max-width: 80%;
+    margin: 2rem auto;
+}
